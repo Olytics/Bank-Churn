@@ -1,5 +1,5 @@
-# Bank-Churn
-Modelling Bank Churn (Machine Learning Application)
+# Customer-Churn
+Modelling Customer Churn (Machine Learning Application)
 The dataset contains customer information, including demographics, account details, and transaction history, which are used to train a machine learning model to predict the likelihood of customers leaving the bank. The aim of the project is to identify key factors contributing to churn and provide actionable insights to reduce customer attrition.
 
 Here are the questions I was interested in answering:
